@@ -1,7 +1,13 @@
-# Check-RapidFailure.ps1
+# Check-RapidFailures.ps1
+![License](https://img.shields.io/github/license/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+
 
 ## Overview
-`Check-RapidFailure.ps1` is a PowerShell script designed to identify rapid logon failures in Windows event logs. This script helps system administrators and security professionals detect potential brute-force attacks by monitoring Event ID 4625 from the Security event log.
+`Check-RapidFailures.ps1` is a PowerShell script designed to identify rapid logon failures in Windows event logs. This script helps system administrators and security professionals detect potential brute-force attacks by monitoring Event ID 4625 from the Security event log.
 
 ## Features
 - Analyzes Event ID 4625 logs for failed logon attempts.
@@ -9,10 +15,10 @@
 - Outputs a summary of accounts with the number of rapid failures and total failures.
 
 ## Usage
-1. **Download the Script**: Clone this repository or download the `Check-RapidFailure.ps1` script file.
+1. **Download the Script**: Clone this repository or download the `Check-RapidFailures.ps1` script file.
 2. **Run the Script**: Open a PowerShell terminal with administrative privileges and navigate to the script's directory. Run the script using:
     ```powershell
-    .\Check-RapidFailure.ps1
+    .\Check-RapidFailures.ps1
     ```
 3. **Customize Thresholds**: Modify the `$timeThresholdSeconds` and `$minimumRapidFailures` variables within the script to set your desired detection parameters.
 
