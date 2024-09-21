@@ -41,7 +41,7 @@ user0         True                  9            10
 Feel free to open issues or submit pull requests if you have suggestions or improvements for this script.
 
 ## License
-This project is licensed under the https://github.com/Timberwulf75/Check-RapidFailures/blob/main/LICENSE(LICENSE).
+This project is licensed under the [https://github.com/Timberwulf75/Check-RapidFailures/blob/main/LICENSE](LICENSE).
 
 ## Contact
 For any questions or feedback, please reach out to https://github.com/Timberwulf75
