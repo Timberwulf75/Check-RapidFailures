@@ -1,9 +1,9 @@
 # Check-RapidFailures.ps1
-![License](https://img.shields.io/github/license/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Timberwulf75/Check-RapidFailures.ps1?style=flat-square)
+![License](https://img.shields.io/github/license/Timberwulf75/Check-RapidFailures?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Timberwulf75/Check-RapidFailures?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Timberwulf75/Check-RapidFailures?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Timberwulf75/Check-RapidFailures?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Timberwulf75/Check-RapidFailures?style=flat-square)
 
 
 ## Overview
